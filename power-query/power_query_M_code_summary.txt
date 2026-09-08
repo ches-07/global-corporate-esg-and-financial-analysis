@@ -1,0 +1,68 @@
+# Power Query — ESG Data Cleaning & Transformation
+
+## Overview
+
+The Power Query workflow imports the raw ESG dataset from a CSV file, standardizes the dataset structure and values, removes invalid or duplicate records, and renames fields into a cleaner, analysis-ready naming convention.
+
+## Transformation Steps
+
+**1. Import Raw Data**
+Loads the `esg_raw.csv` file using semicolon (`;`) delimiters, Windows-1252 encoding, and 85 expected columns.
+
+Note: Edit the File path within the pq file for useability
+
+**2. Promote Headers**
+Converts the first row of the CSV into column headers.
+
+**3. Set Data Types**
+Assigns all imported fields as text to maintain consistent handling of the raw ESG, financial, controversy, SDG, and involvement data.
+
+**4. Remove Line Break Characters**
+Removes newline (`\n`) characters from all columns to prevent formatting inconsistencies within field values.
+
+**5. Remove Percentage Symbols**
+Removes `%` characters from values across the dataset.
+
+**6. Replace Textual Null Values**
+Replaces literal `"null"` text values with blank values.
+
+**7. Trim Text Values**
+Applies text trimming across all columns to remove leading and trailing whitespace.
+
+**8. Remove Blank Rows**
+Deletes rows where all fields are blank or null.
+
+**9. Remove Duplicate Records**
+Removes duplicate rows from the cleaned dataset.
+
+**10. Clean Decarbonization Values**
+Removes the character `t` from the `Decarbonization Target.Comprehensiveness` field.
+
+**11. Standardize Column Names**
+Renames the original nested and descriptive field names into a consistent analytical naming convention.
+
+Examples:
+
+* `name` → `company_name`
+* `esg` → `esg_score`
+* `altman_score` → `altman_score`
+* `piotroski_score` → `piotroski_score`
+* `involvement.Alcoholic Beverages` → `involvement_alcohol`
+* `Controversies.Environment` → `controversy_environment`
+* `Decarbonization Target.Target Year` → `decarb_target_year`
+* `sdg.Climate Action` → `sdg_climate_action`
+* `involvement_msci.Gambling` → `msci_gambling`
+
+The same naming convention is applied throughout the remaining ESG, controversy, SDG, decarbonization, and involvement fields.
+
+## Final Output
+
+The resulting dataset is a cleaned and standardized ESG dataset with:
+
+* Consistent text formatting
+* Removed line breaks, percentage symbols, and textual nulls
+* Blank and duplicate rows removed
+* Standardized analytical column names
+* ESG, financial, sustainability, controversy, and involvement fields prepared for downstream analysis and visualization
+
+**Output:** `Rename Columns`

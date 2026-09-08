@@ -1,0 +1,101 @@
+company_name,ticker,employees,esg_score,piotroski_score,altman_score,sdg_no_poverty,sdg_no_hunger,sdg_good_health,sdg_quality_education,sdg_gender_equality,sdg_clean_water,sdg_clean_energy,sdg_decent_work,sdg_industry_innovation,sdg_reduced_inequalities,sdg_sustainable_cities,sdg_responsible_consumption,sdg_climate_action,sdg_life_below_water,sdg_life_on_land,sdg_peace_justice,sdg_partnerships
+"F5 Networks",FFIV,6459.00,17.20,9.00,4.080,No,No,No,No,Aligned,No,No,Aligned,No,No,No,Aligned,No,No,No,No,No
+Dell,DELL,120000.00,14.40,7.00,1.630,No,No,No,No,Aligned,No,Aligned,Aligned,Aligned,Aligned,No,Aligned,Aligned,No,No,No,No
+"Hewlett Packard",HPQ,58000.00,12.30,7.00,1.910,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,Aligned,No,No,No,No
+IBM,IBM,282200.00,14.10,5.00,3.080,No,No,No,No,No,No,No,No,No,No,No,Aligned,Aligned,No,No,No,No
+"Juniper Networks",JNPR,11144.00,14.50,5.00,1.850,No,No,No,No,No,No,No,Aligned,No,Aligned,No,Aligned,No,No,No,No,No
+"Palo Alto Networks",PANW,14789.00,14.10,6.00,4.540,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,Aligned,No,No,Aligned,No
+"Check Point Software Technologies",CHKP,6450.00,18.10,7.00,8.170,No,No,No,No,Aligned,No,No,No,No,No,No,No,Aligned,No,No,Aligned,No
+Symantec,GEN,3700.00,15.40,6.00,0.930,No,No,No,No,Aligned,No,Aligned,Aligned,No,Aligned,No,No,Aligned,No,No,Aligned,No
+Oracle,ORCL,164000.00,14.10,7.00,1.900,No,No,No,No,Aligned,Aligned,No,No,No,No,No,Aligned,No,No,No,No,No
+Microsoft,MSFT,221000.00,15.40,6.00,9.380,No,No,No,No,Aligned,No,No,No,No,No,No,Aligned,No,No,No,No,No
+Cisco,CSCO,84900.00,13.90,8.00,3.350,No,No,No,No,Aligned,Aligned,No,No,No,Aligned,No,Aligned,Aligned,No,No,No,No
+Fortinet,FTNT,13568.00,18.20,6.00,4.850,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No
+"A-T Solutions",CTSH,347700.00,16.50,7.00,6.540,No,No,No,No,Aligned,No,Aligned,No,No,Aligned,No,Aligned,Aligned,No,No,No,No
+"Thor Industries",THO,24900.00,28.80,6.00,3.600,No,No,No,No,Aligned,No,Aligned,No,Aligned,Aligned,No,No,Aligned,No,No,No,No
+Technomedia,TECH,3200.00,17.50,4.00,10.610,No,No,No,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No
+Harris,LHX,50000.00,21.10,5.00,1.770,No,No,No,No,Aligned,No,No,No,No,No,No,No,Aligned,No,No,No,No
+SWIFT,KNX,34300.00,18.30,4.00,1.750,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+AMD,AMD,26000.00,15.00,7.00,12.540,No,No,No,No,Aligned,No,Aligned,Aligned,Aligned,Aligned,No,Aligned,Aligned,No,No,No,No
+NetApp,NTAP,12000.00,15.40,7.00,2.660,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,Aligned,No,No,Aligned,No
+Accenture,ACN,733000.00,9.80,7.00,7.350,No,No,No,No,Aligned,No,Aligned,No,No,No,No,Aligned,Aligned,No,No,No,No
+Google,GOOGL,182381.00,24.20,8.00,13.240,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Workday,WDAY,18800.00,17.30,7.00,5.320,No,No,No,No,Aligned,No,No,No,No,No,No,No,Aligned,No,No,No,No
+Adobe,ADBE,29945.00,14.90,8.00,12.660,No,No,No,No,Aligned,No,Aligned,No,Aligned,No,No,No,Aligned,No,No,No,No
+Infor,FIS,60000.00,16.10,6.00,-0.220,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,No,No,No,No,No
+"Manhattan Associates",MANH,4580.00,17.50,8.00,20.850,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Pega,PEGA,5406.00,25.20,7.00,3.920,No,No,No,No,No,No,Aligned,No,Aligned,No,No,No,Aligned,No,No,No,No
+Apple,AAPL,161000.00,16.70,9.00,7.900,No,No,No,No,No,Aligned,No,No,No,No,No,No,Aligned,No,No,No,No
+Motorola,MSI,21000.00,13.30,8.00,4.170,No,No,No,No,Aligned,No,No,No,Aligned,Aligned,No,Aligned,Aligned,No,No,Aligned,No
+"Zebra Technologies",ZBRA,9750.00,10.50,7.00,3.970,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+3M,MMM,85000.00,41.30,4.00,1.810,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+Shopify,SHOP,11600.00,21.00,7.00,25.550,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Couchbase,BASE,796.00,21.90,4.00,3.550,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+MongoDB,MDB,5037.00,18.20,6.00,9.440,No,No,No,No,No,No,No,No,No,No,No,No,Aligned,No,No,No,No
+"Ubiquiti Networks",UI,1535.00,19.90,4.00,6.370,No,No,No,No,Aligned,No,No,No,No,No,No,Aligned,No,No,No,Aligned,No
+"Arista Networks",ANET,4023.00,15.40,5.00,20.500,No,No,No,No,Aligned,No,Aligned,No,No,No,No,No,Aligned,No,No,Aligned,No
+"Cognizant Technology Solutions",CTSH,347700.00,16.50,7.00,6.540,No,No,No,No,Aligned,No,Aligned,No,No,Aligned,No,Aligned,Aligned,No,No,No,No
+FICO,FICO,3455.00,20.30,7.00,12.460,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Quest,DGX,50000.00,21.00,6.00,3.080,No,No,No,No,No,No,Aligned,Aligned,No,No,No,No,No,No,No,No,No
+"Booz Allen Hamilton",BAH,31900.00,14.10,6.00,4.800,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No
+Globant,GLOB,29150.00,16.40,4.00,6.360,No,No,No,No,Aligned,No,Aligned,Aligned,No,No,No,No,No,No,No,No,No
+"Altair Engineering",ALTR,3400.00,24.90,4.00,6.960,No,No,No,No,No,No,Aligned,Aligned,No,No,No,No,Aligned,No,No,No,No
+ANSYS,ANSS,6200.00,15.80,6.00,11.500,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+Autodesk,ADSK,13700.00,16.40,8.00,4.040,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,Aligned,Aligned,No,No,No,No
+Verisign,VRSN,908.00,20.90,7.00,-4.880,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Babel,SALM,1147.00,20.30,3.00,0.260,Aligned,"Strongly Aligned",No,No,No,"Strongly Aligned",No,No,No,No,No,"Strongly Aligned",No,No,No,No,No
+"L & T Infotech",FUTU,3213.00,27.20,5.00,1.290,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+"Jack Henry & Associates",JKHY,7120.00,18.70,8.00,9.860,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No
+CMS,CMS,8356.00,21.30,6.00,0.970,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,No,No,No,No,No
+Zscaler,ZS,5962.00,18.10,3.00,5.670,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Trimble,TRMB,12700.00,11.00,6.00,2.640,No,No,No,No,No,No,No,No,No,No,No,Aligned,Aligned,No,No,No,No
+NVIDIA,NVDA,29600.00,13.50,8.00,58.640,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,Aligned,No,No,No,No,No
+"Open Technologies",OPEN,1982.00,11.90,5.00,2.040,No,No,No,No,Aligned,No,No,No,No,Aligned,No,Aligned,No,No,No,No,No
+"Extreme Networks",EXTR,2849.00,17.10,9.00,1.370,No,No,No,No,Aligned,No,Aligned,Aligned,No,No,No,No,No,No,No,No,No
+"Texas Instruments",TXN,34000.00,20.80,4.00,9.080,No,No,No,No,No,Aligned,No,Aligned,No,No,No,Aligned,No,No,No,No,No
+Stryker,SYK,26700.00,24.60,7.00,5.320,Aligned,No,Aligned,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+CD,CDNS,11200.00,12.00,6.00,23.640,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+IPG,IPG,57400.00,9.30,7.00,1.840,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,Aligned,No
+Mi-Co,MSFT,221000.00,15.40,6.00,9.380,No,No,No,No,Aligned,No,No,No,No,No,No,Aligned,No,No,No,No,No
+"Lockheed Martin",LMT,122000.00,28.50,6.00,3.680,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No
+Telstra,TLS,619.00,22.20,3.00,1.980,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No
+Palantir,PLTR,3735.00,23.10,7.00,29.220,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Akamai,AKAM,10250.00,15.00,5.00,2.810,No,No,No,No,No,No,No,No,No,No,No,Aligned,No,No,No,No,No
+FactSet,FDS,12237.00,18.50,7.00,6.200,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+ServiceNow,NOW,22668.00,16.90,5.00,9.540,No,No,No,No,Aligned,No,No,Aligned,No,No,No,Aligned,No,No,No,No,No
+TransUnion,TRU,13200.00,20.70,5.00,2.000,No,No,No,No,Aligned,No,No,No,No,No,No,No,Aligned,No,No,No,No
+DocuSign,DOCU,6840.00,17.70,7.00,4.050,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Dropbox,DBX,2693.00,20.00,8.00,1.810,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+Seagate,STX,33400.00,12.50,2.00,0.240,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No
+SAIC,SAIC,24000.00,24.30,6.00,3.360,No,No,No,No,No,No,No,No,No,No,No,Aligned,No,No,No,No,No
+"EPAM Systems",EPAM,53150.00,28.10,6.00,12.230,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,Aligned,No,No,Aligned,No
+"Clark & Parsia",KMB,41000.00,28.60,8.00,4.040,Aligned,No,Aligned,No,Aligned,"Strongly Aligned",Aligned,No,No,Aligned,No,No,No,No,No,No,No
+"Exa Corporation",EXAS,6600.00,22.50,4.00,1.660,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Sage,SAGE,487.00,22.30,3.00,1.910,No,No,No,No,Aligned,No,Aligned,Aligned,No,Aligned,No,No,Aligned,No,No,No,No
+"Sky Solutions",SWKS,9750.00,24.90,6.00,6.770,No,No,No,No,No,No,Aligned,Aligned,No,No,No,No,Aligned,No,No,No,No
+"Nasdaq OMX",NDAQ,8525.00,14.80,6.00,1.670,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,Aligned,No,No,Aligned,No
+"Bax & Willems",BAX,60000.00,23.30,5.00,2.430,Aligned,No,Aligned,No,Aligned,No,No,Aligned,No,No,No,No,No,No,No,No,No
+Corning,GLW,49800.00,17.40,5.00,2.530,No,No,Aligned,No,Aligned,No,No,Aligned,Aligned,Aligned,Aligned,Aligned,No,No,No,No,No
+"Rockwell Automation",ROK,29000.00,19.10,8.00,4.980,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No
+"Cadence Design Systems",CDNS,11200.00,12.00,6.00,23.640,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Celestica,CLS,26554.00,8.40,7.00,2.580,No,No,No,No,Aligned,No,No,No,No,Aligned,No,No,No,No,No,No,No
+DRI,DRI,187384.00,28.00,6.00,2.380,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Snowflake,SNOW,7004.00,18.90,4.00,9.970,No,No,No,No,No,No,No,No,No,No,No,Aligned,No,No,No,No,No
+MT,MT,126756.00,38.10,8.00,1.960,No,No,No,No,Aligned,No,Aligned,Aligned,Aligned,Aligned,No,Aligned,No,No,No,No,No
+Nexter,NEE,9500.00,25.30,5.00,1.210,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+ZS,ZS,5962.00,18.10,3.00,5.670,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Datadog,DDOG,5200.00,16.70,7.00,14.380,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Emerson,EMR,67000.00,24.50,7.00,4.220,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No
+Micron,MU,43000.00,19.70,2.00,4.600,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No
+"Henry Schein",HSIC,25000.00,14.40,6.00,3.060,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+Facebook,META,67317.00,33.90,7.00,11.300,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,No,No
+NICE,NICE,8384.00,14.30,6.00,6.370,No,No,No,No,No,No,No,No,No,No,No,Aligned,No,No,No,No,No
+"Service & Support company",UPS,500000.00,18.60,6.00,3.560,No,No,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No,No,No,No
+MOS,MOS,14049.00,37.80,6.00,2.260,No,No,No,No,Aligned,Aligned,No,No,Aligned,Aligned,No,No,No,No,No,No,No
+PATH,PATH,4035.00,17.10,4.00,7.170,No,No,No,No,Aligned,No,No,No,No,No,No,Aligned,No,No,No,Aligned,No
+Discovery,WBD,35300.00,19.90,5.00,0.420,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,No,No,No,No,No
+NextDC,NXT,606.00,19.70,7.00,2.640,No,No,No,No,Aligned,No,Aligned,No,No,No,No,No,Aligned,No,No,No,No
+Equinix,EQIX,13151.00,14.10,6.00,2.180,No,No,No,No,Aligned,No,No,Aligned,No,No,No,Aligned,No,No,No,No,No
+"Towers Watson",WTW,48000.00,18.70,7.00,1.360,No,No,No,No,Aligned,No,No,No,No,No,No,No,No,No,No,Aligned,No
+ROS,ROST,108000.00,17.60,8.00,5.300,No,No,No,No,Aligned,No,No,Aligned,No,No,No,No,No,No,No,No,No
+Schlumberger,SLB,111000.00,20.10,7.00,3.210,No,No,No,No,Aligned,No,No,Aligned,No,Aligned,No,No,No,No,No,No,No

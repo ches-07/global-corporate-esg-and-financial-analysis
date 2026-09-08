@@ -1,0 +1,30 @@
+{
+  "title": "Global Corporate ESG and Financial Dataset",
+  "id": "tonylm00/business-companies-dataset",
+  "subtitle": "ESG, Financial Health, and Controversies of 50,000+ Global Companies",
+  "description": "This dataset offers a comprehensive overview of over 50,000 companies, detailing essential information such as website domain, company name, and stock ticker. It also includes variables indicating companies' involvement in specific controversial activities. This rich dataset is ideal for a variety of analyses, including ESG (Environmental, Social, and Governance) assessments, allowing users to explore corporate practices concerning these significant metrics.",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "ESG",
+    "financial health",
+    "corporate governance",
+    "controversies",
+    "Altman Z-score",
+    "Piotroski F-score",
+    "decarbonization",
+    "SDG",
+    "sustainability",
+    "stock ticker"
+  ],
+  "isPrivate": false,
+  "resources": [
+    {
+      "path": "business_companies.csv",
+      "description": "Main dataset containing company profiles, ESG metrics, financial scores, and controversy indicators."
+    }
+  ]
+}
