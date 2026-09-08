@@ -166,9 +166,16 @@ The complete-case design improves comparability across metrics, but the 100-comp
 
 ## Descriptive Analysis - Tableau Analysis
 
-`1_Descriptive_Analysis.twbx` contains two dashboards.
+`1_Descriptive_Analysis.twbx` contains two dashboards. See samples below.
 
 ### Financial Metrics
+![Financial Metrics Dashboard](analysis_01/samples/Fin_Sample_05.png)
+
+### SDG Analysis
+![SDG Analysis Dashboard](analysis_01/samples/SDG_Sample_05.png)
+
+### Interactive Selector
+![SDG Selector Demo](analysis_01/samples/Selector-Sample_SDG.gif)
 
 Combines:
 
