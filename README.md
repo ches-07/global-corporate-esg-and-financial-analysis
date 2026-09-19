@@ -177,6 +177,9 @@ The complete-case design improves comparability across metrics, but the 100-comp
 ### Interactive Selector
 ![SDG Selector Demo](analysis_01/samples/Selector-Sample_SDG.gif)
 
+### Compliance Summary
+![Compliance Summary](analysis_01/samples/Overall_Sample.png)
+
 Combines:
 
 - Piotroski F-Score
